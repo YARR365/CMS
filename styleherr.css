@@ -1,0 +1,31 @@
+body{
+	background: #afb3b4;
+}
+h1{
+	text-align: center;
+	text-shadow: 0 5px 5px #2bc6e2;
+	padding: 3rem;
+}
+h2{
+	text-align: center;
+	text-shadow: 0 5px 5px #ffffff;
+}
+img{
+
+	border-radius: 6px;
+	box-shadow: 0 5px 8px #000000; 
+}
+table{
+	background-color: #b4edf7;
+	box-shadow:  0 5px 5px #000000;
+}
+thead{
+	background-color: #2c7987;
+	color: white;
+
+}
+div{
+	width: 90%;
+	max-width: 800px;
+	margin: 20px auto;
+}
